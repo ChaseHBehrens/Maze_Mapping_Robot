@@ -1,0 +1,9 @@
+free_thresh: 0.196
+image: small_field.pgm
+negate: 0
+occupied_thresh: 0.65
+origin:
+- -0.3498841031053676
+- -0.9304969763334937
+- 0.0
+resolution: 0.019999999552965164
